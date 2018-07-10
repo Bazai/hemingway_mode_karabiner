@@ -8,6 +8,7 @@ This small config Karabiner config helps writers to put asleep their internal ed
 
 Technically it just disables any backspace handling, allowing only alt+backspace to backward delete whole words.
 
+## Installation
 1. Install Karabiner
 2. Set it up
 3. Tune up MacOS Security settings to allow Karabiner handle system level events
