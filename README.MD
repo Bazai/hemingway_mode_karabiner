@@ -1,4 +1,5 @@
 # Hemingway Mode Karabiner Config
+![Ernest Hemingway](http://ykl-res.azureedge.net/7951c4f4-c179-4943-a39b-2f859e713399/1.png)
 
 This small config Karabiner config helps writers to put asleep their internal editor. So you just can get drunk. Edit later.
 
